@@ -1,0 +1,17 @@
+backend code for defect_report.html
+<!--{% for id in ids}-->
+            <!--<tr>
+                <td scope="row">{{Timestamp}}</td>
+                <td>{{accomodation}}</td>
+                <td>{{hall_location}}</td>
+                <td>{{floor}}</td>
+                <td>{{cluster}}</td>
+                <td>{{room}}</td>
+                <td>{{fault}}</td>
+                <td>
+                    <p>{{name}} </p>
+                    <p>{{phone}}: </p>
+                    <p>{{email}} </p>
+                </td>
+            </tr>
+              {% endfor %}-->

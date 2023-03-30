@@ -1,0 +1,66 @@
+/*Main CSS layout.html*/
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    color: #000000;
+    height: 100vh;
+}
+
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+
+/*defect_form_user*/
+.submit_button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/*defect_report,logistics buttons*/
+.btn_red {
+    background-color: red;
+    border: white;
+    text-decoration: bold;
+    display: inline-block;
+}
+
+.btn_orange {
+    background-color: orange;
+    border: white;
+    text-decoration: bold;
+    display: inline-block;
+}
+
+.btn_green {
+    background-color: green;
+    border: white;
+    text-decoration: bold;
+    display: inline-block;
+}
+
+li span {
+    position: relative;
+    left: -10px;
+}
+
+#buttons_logistics {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*Defect Forms*/
+.defect_form {
+    margin:10px;
+}
+
+/*logistics_indv*/
+.log {
+    margin-top:10px;
+}
